@@ -1,1 +1,0 @@
-# asure-frontend-version1
